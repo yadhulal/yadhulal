@@ -6,7 +6,7 @@
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=yadhulal&show_icons=true&theme=radical"/>
 <br>
 
-🐱‍👤I’m currently learning **React.js**
+👨🏻‍💻I’m currently learning **React.js**
 
 💬Lets Discuss **Web Designing**
 
