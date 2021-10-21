@@ -37,7 +37,7 @@
 <a href="https://www.behance.net/yadhulal" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/behance-3-logo-svg-vector.svg" target="_blank"width="80" height="60" ></a>
 
 </p>
- ![snake animation](https://github.com/yadhulal/yadhulal/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 
