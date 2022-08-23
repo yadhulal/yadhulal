@@ -35,7 +35,7 @@
 <a href="https://instagram.com/yadh.u_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
 <a href="mailto: yadhumonu99@gmail.com" target="blank"><img align="center" src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
 <a href="https://medium.com/@yadhulal" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"width="110" height="30"></a>
-<a href="https://www.behance.net/yadhulal" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/behance-3-logo-svg-vector.svg" target="_blank"width="80" height="60" ></a>
+<a href="https://www.behance.net/yadhulal" target="blank"><img align="center" src="behance.png" target="_blank"width="80" height="60" ></a>
 
 </p>
 
