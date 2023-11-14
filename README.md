@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I'm Yadhu</h1>
-<h3 align="center">Diligent Front-End developer & Web Designer</h3>
+<h3 align="center">Diligent Experience Designer & Front End Developer </h3>
 <br>
 
 
